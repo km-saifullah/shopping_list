@@ -33,20 +33,19 @@ const addItems = () => {
   // Delete Individual Item
   deleteBtn.addEventListener("click", () => {
     let liItem = li.innerHTML;
-    console.log("listItem:", liItem);
     let liItemIndex = arr.indexOf(liItem);
-    console.log(liItemIndex);
     arr.splice(liItemIndex - 1, liItemIndex);
-    li.remove();
-    deleteBtn.remove();
+    listItems.remove();
+    if (arr.length == 1) {
+      listItems.remove();
+      arr = [];
+    }
   });
-  console.log(arr);
 
   // Remove Full List
   removeAll.addEventListener("click", () => {
     listItems.remove();
     arr = [];
-    console.log("Array in remove all:", arr);
   });
 
   return listItems;
