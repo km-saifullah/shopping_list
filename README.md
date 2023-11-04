@@ -14,3 +14,7 @@ This is a very basic project on DOM. You can make a shopping list with the help 
 
 1. Edit the shopping list
 2. Add a checkmark to the shopping list
+
+### Project Demonstration
+
+[![Watch the video](https://i9.ytimg.com/vi_webp/wI8GZjsY4Qw/mq1.webp?sqp=CIDVmaoG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYACrAWKAgwIABABGE4gEyh_MA8=&rs=AOn4CLBU_NDgNoEqTHAI9Tz0GK-hFslHRQ)](https://www.youtube.com/watch?v=wI8GZjsY4Qw)
