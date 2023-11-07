@@ -17,4 +17,4 @@ This is a very basic project on DOM. You can make a shopping list with the help 
 
 ### Project Demonstration
 
-[![Watch the video](./images)](https://www.youtube.com/watch?v=wI8GZjsY4Qw)
+[![Watch the video](./images/shop-list.png)](https://www.youtube.com/watch?v=wI8GZjsY4Qw)
